@@ -1,0 +1,7 @@
+img{
+    border-radius: 200px;
+    aspect-ratio: 1;
+    object-fit: cover;
+    background-color: black;
+    filter: saturate(0.1);
+}
